@@ -42,6 +42,6 @@ API_UPDATE_TIME = 60
 # Manager (ignore this)
 MANAGE_PASS = 'ss233333333'
 # if you want manage in other server you should set this value to global ip
-MANAGE_BIND_IP = '127.0.0.1'
+MANAGE_BIND_IP = '172.16.0.2'
 # make sure this port is idle
 MANAGE_PORT = 23333
